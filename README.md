@@ -112,21 +112,15 @@ The dashboard enables stakeholders to monitor key business metrics, identify sal
 
 ## Executive Overview
 
-![Executive Overview](Excecutive Overview.png)
-
----
+![Executive Overview](Executive%20Overview.png)
 
 ## Sales Performance Analysis
 
-![Sales Performance Analysis](Sales Performance Analysis.png)
-
----
+![Sales Performance Analysis](Sales%20Performance%20Analysis.png)
 
 ## Customer & Returns Analysis
 
-![Customer & Returns Analysis](Customer & Returns Analysis.png)
-
----
+![Customer & Returns Analysis](Customer%20%26%20Returns%20Analysis.png)
 
 # 📂 Repository Structure
 
